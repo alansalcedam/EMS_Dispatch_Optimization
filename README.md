@@ -10,15 +10,17 @@ EMS_Dispatch_Optimization/
 ├── data/
 │   └── allegheny_county_911_EMS_dispatches_sampledata_5k.csv
 │
-├── src/
-│   ├── supervised/
-│   │   └── supervised_models_drive.py
-│   ├── unsupervised/
-│   │   └── unsupervised_models_drive.py
-│   └── main.py
+├── notebooks/
+│   └── full_analysis_.ipynb
 │
-└── notebooks/
-    └── full_analysis_.ipynb
+└── src/
+    ├── supervised/
+    │   └── supervised_models_drive.py
+    ├── unsupervised/
+    │   └── unsupervised_models_drive.py
+    └── main.py
+
+
 ```
 
 ## How to Run
