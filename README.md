@@ -1,5 +1,5 @@
 # EMS Dispatch Optimization
-
+### Authors: Jackson Thetford, Diego Jimenez, Alan Salceda
 This project analyzes EMS dispatch data from Allegheny County using both supervised and unsupervised machine learning techniques.
 
 ## Structure
